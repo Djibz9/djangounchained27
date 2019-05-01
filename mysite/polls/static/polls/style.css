@@ -1,4 +1,9 @@
 body{
-    background: white url("images/destruction.png") no-repeat;
+    /*background: white url("images/destruction.png") no-repeat;*/
     background-size: cover;   
+}
+.qlist{
+list-style-type: hiragana;
+/*color: antiquewhite;*/
+
 }
